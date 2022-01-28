@@ -1,4 +1,6 @@
 # WeatherWidget
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/67828030/151532772-a2a7bfd9-8b9e-4d8e-afad-65b7808613cc.gif)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.0.
 
